@@ -1,7 +1,7 @@
 # Welcome to the Open University Weather & Climate Club 👋
 
 <div align="center">
-<img src="club-logo-with-background-closeup.png" width="558" height="453">
+<img src="club-logo-with-background-closeup.png" alt="Club Logo" width="558" height="453">
 </div>
 
 We are a friendly group offering support and opportunities to anyone curious about developing their interest or career in weather and climate.
