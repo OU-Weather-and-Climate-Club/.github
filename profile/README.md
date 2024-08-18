@@ -1,6 +1,7 @@
+<div align="center">
+ 
 # Welcome to the Open University Weather & Climate Club 👋
 
-<div align="center">
 <img src="club-logo-with-background-closeup.png" alt="Club Logo" width="558" height="453">
 </div>
 
