@@ -16,9 +16,6 @@ We have made a start already, with much more to follow! - so if you would like t
  ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
  [Find our links](https://linktr.ee/ouweatherandclimateclub)
 
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
- [Join our Discord server](https://discord.gg/kaYG7kBNTF)
-
 <!--
 
 **Here are some ideas to get you started:**
