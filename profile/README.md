@@ -16,6 +16,26 @@ We have made a start already, with much more to follow! - so if you would like t
  ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
  [Find our links](https://linktr.ee/ouweatherandclimateclub)
 
+***
+### Explore our repos by topic label!
+
+<mark>ou-club-learning</mark> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *for collaborative learning*
+
+<mark>ou-club-activities</mark> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *for club-led activites*
+
+<mark>members-inspiration-board</mark> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *for member-shared repos*
+
+<mark>members-seeking-collaborators</mark> &nbsp; &nbsp; *for finding collaborators*
+
+***
+### Sharing repos as a member:
+
+Copies of repos showcased on our inspiration board will be kept on public read-only access with branch protection rules. The original repo in your personal account will remain unaffected. 
+
+Collaborators can be added on request at the discretion of the member who shared the repo 🤝
+
+ We would love to help you and your projects reach a wider audience - so if you would like to get involved, do get in touch!
+
 <!--
 
 **Here are some ideas to get you started:**
